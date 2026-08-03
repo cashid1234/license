@@ -12,19 +12,24 @@
             "note": "PlayKoro main site",
             "nonce": "",
             "sig": "0932bc1f2f9ada1f305c04b295e8554befa593c7988e845458fba7bcdd47f113"
-        },
-        "PK-DEMO-TEST-0002": {
-            "key": "PK-DEMO-TEST-0002",
+        },{
+    "licenses": {
+        "PK-001": {
+            "key": "PK-001",
             "status": "active",
-            "expires_at": "2026-12-31",
+            "expires_at": "2027-12-31",
             "domains": [
-                "demo.playkoro.com"
+                "PLAYKOR.COM",
+                "WWW.PLAYKORO.COM"
             ],
+            "note": "NOTE",
             "install_id": "",
-            "note": "Demo / staging",
             "nonce": "",
-            "sig": "e99f8d2f06062ef528f54980c91d63db0be209f0509349cbbe24622c7abae2fd"
-        },
+            "sig": "88aee06211e238f6ba69c5eb4b3e89abfac8a85f58921e270b43bc663868e1e7"
+        }
+    },
+    "generated_at": "2026-08-03T13:23:33+00:00"
+},
         "PK-OLDC-LENT-0003": {
             "key": "PK-OLDC-LENT-0003",
             "status": "revoked",
