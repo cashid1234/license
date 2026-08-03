@@ -12,19 +12,31 @@
             "nonce": "",
             "sig": "e99f8d2f06062ef528f54980c91d63db0be209f0509349cbbe24622c7abae2fd"
         },
-        "123": {
-            "key": "123",
+        "PK-OLDC-LENT-0003": {
+            "key": "PK-OLDC-LENT-0003",
+            "status": "revoked",
+            "expires_at": "2026-01-01",
+            "domains": [
+                "oldclient.com"
+            ],
+            "install_id": "",
+            "note": "Revoked example",
+            "nonce": "",
+            "sig": "8e690d1a71653e13306063920dc65302c8f5b0cacc842f6ba580b16c59fb5f73"
+        },
+        "1235": {
+            "key": "1235",
             "status": "active",
             "expires_at": "2027-12-31",
             "domains": [
-                "playkoro.com",
-                "www.playkoro.com"
+                "www.playkoro.com",
+                "playkoro.com"
             ],
-            "note": "NAHID",
+            "note": "rrrr",
             "install_id": "",
             "nonce": "",
-            "sig": "81678c6b2ed16c4757824bbd76903b16e4678ced8e43d9f03135ace1e524829a"
+            "sig": "e3ad6b1d2b6af335e2c1bb0d04d816b8569caa6fd5f798828c3b4e123c69f92a"
         }
     },
-    "generated_at": "2026-08-03T13:30:59+00:00"
+    "generated_at": "2026-08-03T15:02:17+00:00"
 }
