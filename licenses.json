@@ -4,7 +4,10 @@
             "key": "PK-PLAY-KORO-0001",
             "status": "active",
             "expires_at": "2027-12-31",
-            "domains": ["playkoro.com", "www.playkoro.com"],
+            "domains": [
+                "playkoro.com",
+                "www.playkoro.com"
+            ],
             "install_id": "",
             "note": "PlayKoro main site",
             "nonce": "",
@@ -14,7 +17,9 @@
             "key": "PK-DEMO-TEST-0002",
             "status": "active",
             "expires_at": "2026-12-31",
-            "domains": ["demo.playkoro.com"],
+            "domains": [
+                "demo.playkoro.com"
+            ],
             "install_id": "",
             "note": "Demo / staging",
             "nonce": "",
@@ -24,7 +29,9 @@
             "key": "PK-OLDC-LENT-0003",
             "status": "revoked",
             "expires_at": "2026-01-01",
-            "domains": ["oldclient.com"],
+            "domains": [
+                "oldclient.com"
+            ],
             "install_id": "",
             "note": "Revoked example",
             "nonce": "",
