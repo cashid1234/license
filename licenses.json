@@ -1,17 +1,18 @@
 {
     "licenses": {
-        "123#": {
-            "key": "123#",
+        "123": {
+            "key": "123",
             "status": "active",
             "expires_at": "2027-12-31",
             "domains": [
-                "www.playkoro.com.playkoro.com"
+                "playkoro.com.www",
+                "playkoro.com"
             ],
             "note": "rakib",
             "install_id": "",
             "nonce": "",
-            "sig": "3f3fe74590c89c985ac810f727422cecff3910dbf482ac4e9f96c50171a5130f"
+            "sig": "7560d4b7e8e05a68fe581e2054ca1f5c960057b0c834e7d436db623b86e42473"
         }
     },
-    "generated_at": "2026-08-04T01:38:58+00:00"
+    "generated_at": "2026-08-04T01:45:18+00:00"
 }
