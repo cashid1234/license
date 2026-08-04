@@ -1,7 +1,7 @@
 {
     "licenses": {
-        "123": {
-            "key": "123",
+        "123#": {
+            "key": "123#",
             "status": "active",
             "expires_at": "2027-12-31",
             "domains": [
@@ -11,8 +11,8 @@
             "note": "rakib",
             "install_id": "",
             "nonce": "",
-            "sig": "7560d4b7e8e05a68fe581e2054ca1f5c960057b0c834e7d436db623b86e42473"
+            "sig": "8c84d4280566a85dd253759f743f48830857b6a3f76c14962f689817428ea30b"
         }
     },
-    "generated_at": "2026-08-04T03:57:52+00:00"
+    "generated_at": "2026-08-04T10:03:21+00:00"
 }
