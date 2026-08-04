@@ -1,42 +1,17 @@
 {
     "licenses": {
-        "PK-DEMO-TEST-0002": {
-            "key": "PK-DEMO-TEST-0002",
-            "status": "active",
-            "expires_at": "2026-12-31",
-            "domains": [
-                "demo.playkoro.com"
-            ],
-            "install_id": "",
-            "note": "Demo / staging",
-            "nonce": "",
-            "sig": "e99f8d2f06062ef528f54980c91d63db0be209f0509349cbbe24622c7abae2fd"
-        },
-        "PK-OLDC-LENT-0003": {
-            "key": "PK-OLDC-LENT-0003",
-            "status": "revoked",
-            "expires_at": "2026-01-01",
-            "domains": [
-                "oldclient.com"
-            ],
-            "install_id": "",
-            "note": "Revoked example",
-            "nonce": "",
-            "sig": "8e690d1a71653e13306063920dc65302c8f5b0cacc842f6ba580b16c59fb5f73"
-        },
-        "1235": {
-            "key": "1235",
+        "123#": {
+            "key": "123#",
             "status": "active",
             "expires_at": "2027-12-31",
             "domains": [
-                "www.playkoro.com",
-                "playkoro.com"
+                "www.playkoro.com.playkoro.com"
             ],
-            "note": "rrrr",
+            "note": "rakib",
             "install_id": "",
             "nonce": "",
-            "sig": "e3ad6b1d2b6af335e2c1bb0d04d816b8569caa6fd5f798828c3b4e123c69f92a"
+            "sig": "3f3fe74590c89c985ac810f727422cecff3910dbf482ac4e9f96c50171a5130f"
         }
     },
-    "generated_at": "2026-08-03T15:02:17+00:00"
+    "generated_at": "2026-08-04T01:38:58+00:00"
 }
