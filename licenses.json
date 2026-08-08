@@ -1,18 +1,55 @@
 {
     "licenses": {
-        "1234": {
-            "key": "1234",
+        "PK-PLAY-KORO-0001": {
+            "key": "PK-PLAY-KORO-0001",
             "status": "active",
             "expires_at": "2027-12-31",
             "domains": [
-                "playkoro.com.www",
-                "playkoro.com"
+                "playkoro.com",
+                "www.playkoro.com"
             ],
-            "note": "rakib",
+            "install_id": "",
+            "note": "PlayKoro main site",
+            "nonce": "",
+            "sig": "0932bc1f2f9ada1f305c04b295e8554befa593c7988e845458fba7bcdd47f113"
+        },
+        "PK-DEMO-TEST-0002": {
+            "key": "PK-DEMO-TEST-0002",
+            "status": "active",
+            "expires_at": "2026-12-31",
+            "domains": [
+                "demo.playkoro.com"
+            ],
+            "install_id": "",
+            "note": "Demo / staging",
+            "nonce": "",
+            "sig": "e99f8d2f06062ef528f54980c91d63db0be209f0509349cbbe24622c7abae2fd"
+        },
+        "PK-OLDC-LENT-0003": {
+            "key": "PK-OLDC-LENT-0003",
+            "status": "revoked",
+            "expires_at": "2026-01-01",
+            "domains": [
+                "oldclient.com"
+            ],
+            "install_id": "",
+            "note": "Revoked example",
+            "nonce": "",
+            "sig": "8e690d1a71653e13306063920dc65302c8f5b0cacc842f6ba580b16c59fb5f73"
+        },
+        "SSS": {
+            "key": "SSS",
+            "status": "active",
+            "expires_at": "2030-12-31",
+            "domains": [
+                "pgk555.com",
+                "pgk555.tech"
+            ],
+            "note": "F",
             "install_id": "",
             "nonce": "",
-            "sig": "acf4dcebd41334ddba44168e57178452571b75a226011d6949092373d358cfd0"
+            "sig": "dee922cffd6c07c23463a584c29f1d1db38262b2c14710aba14d7cd0068f9a23"
         }
     },
-    "generated_at": "2026-08-05T03:30:39+00:00"
+    "generated_at": "2026-08-08T09:24:00+00:00"
 }
