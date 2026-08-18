@@ -1,31 +1,55 @@
 {
     "licenses": {
-        "1234": {
-            "key": "1234",
+        "PK-PLAY-KORO-0001": {
+            "key": "PK-PLAY-KORO-0001",
             "status": "active",
             "expires_at": "2027-12-31",
             "domains": [
-                "playkoro.com.www",
-                "playkoro.com"
+                "playkoro.com",
+                "www.playkoro.com"
             ],
-            "note": "rakib",
             "install_id": "",
+            "note": "PlayKoro main site",
             "nonce": "",
-            "sig": "acf4dcebd41334ddba44168e57178452571b75a226011d6949092373d358cfd0"
+            "sig": "0932bc1f2f9ada1f305c04b295e8554befa593c7988e845458fba7bcdd47f113"
         },
-        "12345": {
-            "key": "12345",
+        "PK-DEMO-TEST-0002": {
+            "key": "PK-DEMO-TEST-0002",
+            "status": "active",
+            "expires_at": "2026-12-31",
+            "domains": [
+                "demo.playkoro.com"
+            ],
+            "install_id": "",
+            "note": "Demo / staging",
+            "nonce": "",
+            "sig": "e99f8d2f06062ef528f54980c91d63db0be209f0509349cbbe24622c7abae2fd"
+        },
+        "PK-OLDC-LENT-0003": {
+            "key": "PK-OLDC-LENT-0003",
+            "status": "revoked",
+            "expires_at": "2026-01-01",
+            "domains": [
+                "oldclient.com"
+            ],
+            "install_id": "",
+            "note": "Revoked example",
+            "nonce": "",
+            "sig": "8e690d1a71653e13306063920dc65302c8f5b0cacc842f6ba580b16c59fb5f73"
+        },
+        "123": {
+            "key": "123",
             "status": "active",
             "expires_at": "2027-12-31",
             "domains": [
-                "playkoro.online.www",
-                "playkoro.online"
+                "royelking.com.www",
+                "royelking.com"
             ],
-            "note": "rakib1",
+            "note": "rakib3",
             "install_id": "",
             "nonce": "",
-            "sig": "1afab2f84d8c91d66d706b846bc9bdfd081f7730c77a93f2f755ce615718e8fc"
+            "sig": "62e91154af87ac2fe435768d40f123896b1fe3537deab73a419f3e6f8f0bc44d"
         }
     },
-    "generated_at": "2026-08-13T21:28:19+00:00"
+    "generated_at": "2026-08-18T06:55:02+00:00"
 }
