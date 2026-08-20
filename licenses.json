@@ -1,18 +1,55 @@
 {
     "licenses": {
-        "1234": {
-            "key": "1234",
-            "status": "active",
+        "PK-PLAY-KORO-0001": {
+            "key": "PK-PLAY-KORO-0001",
+            "status": "revoked",
             "expires_at": "2027-12-31",
             "domains": [
-                "playkoro.com.www",
-                "playkoro.com"
+                "playkoro.com",
+                "www.playkoro.com"
             ],
-            "note": "Rakib",
+            "install_id": "",
+            "note": "PlayKoro main site",
+            "nonce": "",
+            "sig": "bb11ab8bfe556cfc2139f634a1255eb52749fe8fa853bec6284649049c87b824"
+        },
+        "PK-DEMO-TEST-0002": {
+            "key": "PK-DEMO-TEST-0002",
+            "status": "revoked",
+            "expires_at": "2026-12-31",
+            "domains": [
+                "demo.playkoro.com"
+            ],
+            "install_id": "",
+            "note": "Demo / staging",
+            "nonce": "",
+            "sig": "a033080d500efddee67061665fe25bb9f72b9893e92a6fa3633b451b9e2be676"
+        },
+        "PK-OLDC-LENT-0003": {
+            "key": "PK-OLDC-LENT-0003",
+            "status": "revoked",
+            "expires_at": "2026-01-01",
+            "domains": [
+                "oldclient.com"
+            ],
+            "install_id": "",
+            "note": "Revoked example",
+            "nonce": "",
+            "sig": "8e690d1a71653e13306063920dc65302c8f5b0cacc842f6ba580b16c59fb5f73"
+        },
+        "12345": {
+            "key": "12345",
+            "status": "revoked",
+            "expires_at": "2027-12-31",
+            "domains": [
+                "royelking.com.www",
+                "royelking.com"
+            ],
+            "note": "rakib1",
             "install_id": "",
             "nonce": "",
-            "sig": "acf4dcebd41334ddba44168e57178452571b75a226011d6949092373d358cfd0"
+            "sig": "7b9500f7a6d9f25142d2c2b7eaf88a5bdfdcad9f6ea174fa91608a07d07809f9"
         }
     },
-    "generated_at": "2026-08-18T18:23:28+00:00"
+    "generated_at": "2026-08-20T08:07:26+00:00"
 }
