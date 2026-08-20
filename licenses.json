@@ -1,18 +1,5 @@
 {
     "licenses": {
-        "12345": {
-            "key": "12345",
-            "status": "active",
-            "expires_at": "2027-12-31",
-            "domains": [
-                "royelking.com.www",
-                "royelking.com"
-            ],
-            "note": "rakib1",
-            "install_id": "",
-            "nonce": "",
-            "sig": "e25e2e809f4ede865c0e364f18ab51215a09fab82f4f3eeeb3ff56c08bee8ccc"
-        },
         "1234": {
             "key": "1234",
             "status": "active",
@@ -25,7 +12,20 @@
             "install_id": "",
             "nonce": "",
             "sig": "acf4dcebd41334ddba44168e57178452571b75a226011d6949092373d358cfd0"
+        },
+        "12345": {
+            "key": "12345",
+            "status": "active",
+            "expires_at": "2027-12-31",
+            "domains": [
+                "royelking.com.www",
+                "royelking.com"
+            ],
+            "note": "rakib1",
+            "install_id": "",
+            "nonce": "",
+            "sig": "e25e2e809f4ede865c0e364f18ab51215a09fab82f4f3eeeb3ff56c08bee8ccc"
         }
     },
-    "generated_at": "2026-08-20T08:11:20+00:00"
+    "generated_at": "2026-08-20T08:14:49+00:00"
 }
