@@ -3,20 +3,7 @@
         "1234": {
             "key": "1234",
             "status": "active",
-            "expires_at": "2027-12-31",
-            "domains": [
-                "playkoro.com",
-                "www.playkoro.com"
-            ],
-            "note": "p",
-            "install_id": "",
-            "nonce": "",
-            "sig": "cb80c1cf5ce7cd77e39b793046377afe01d7a6648c9739e77b19fe6f5b78c70a"
-        },
-        "12345": {
-            "key": "12345",
-            "status": "active",
-            "expires_at": "2027-12-31",
+            "expires_at": "2030-12-31",
             "domains": [
                 "robi444.com",
                 "www.robi444.com"
@@ -24,8 +11,8 @@
             "note": "pp",
             "install_id": "",
             "nonce": "",
-            "sig": "ee994c35d30bb28f92014adb9f2bbf6636a3f94576606af7836e40083e94a938"
+            "sig": "a2d7877adcbc91ae70b81a22862e4eed6cf70c085a311476e17f4db7723fdca2"
         }
     },
-    "generated_at": "2026-09-08T10:25:14+00:00"
+    "generated_at": "2026-09-25T06:14:42+00:00"
 }
