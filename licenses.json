@@ -1,23 +1,5 @@
 {
     "licenses": {
-        "1234": {
-            "key": "1234",
-            "status": "active",
-            "expires_at": "2030-12-31",
-            "domains": [
-                "robi444.com",
-                "www.robi444.com"
-            ],
-            "note": "pp",
-            "install_id": "",
-            "nonce": "",
-            "sig": "a2d7877adcbc91ae70b81a22862e4eed6cf70c085a311476e17f4db7723fdca2"
-        }
-    },
-    "generated_at": "2026-09-25T06:14:42+00:00"
-}
-{
-    "licenses": {
         "12345": {
             "key": "12345",
             "status": "active",
