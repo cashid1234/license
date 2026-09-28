@@ -16,3 +16,21 @@
     },
     "generated_at": "2026-09-25T06:14:42+00:00"
 }
+{
+    "licenses": {
+        "12345": {
+            "key": "12345",
+            "status": "active",
+            "expires_at": "2027-12-31",
+            "domains": [
+                "Win81.live",
+                "www.Win81.live"
+            ],
+            "note": "p",
+            "install_id": "",
+            "nonce": "",
+            "sig": "6c4174d7c79d65c3c005d450e9c10898a0349c8ff69e6f6817c23b61e4233f6e"
+        }
+    },
+    "generated_at": "2026-09-28T07:28:51+00:00"
+}
