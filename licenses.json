@@ -1,35 +1,5 @@
 {
     "licenses": {
-        "1234": {
-            "key": "1234",
-            "status": "active",
-            "expires_at": "2027-12-31",
-            "domains": [
-                "robi444.com",
-                "www.robi444.com"
-            ],
-            "note": "p",
-            "install_id": "",
-            "nonce": "",
-            "sig": "5706163c30bfaf3df6cebea58db030a66c0e5307599157267eb6347e9694f227"
-        },
-        "12345": {
-            "key": "12345",
-            "status": "active",
-            "expires_at": "2027-12-31",
-            "domains": [
-                "Win81.live",
-                "www.Win81.live"
-            ],
-            "note": "pp",
-            "install_id": "",
-            "nonce": "",
-            "sig": "6c4174d7c79d65c3c005d450e9c10898a0349c8ff69e6f6817c23b61e4233f6e"
-        }
-    },
-    "generated_at": "2026-09-28T08:17:40+00:00"
-}
-    "licenses": {
         "123456": {
             "key": "123456",
             "status": "active",
