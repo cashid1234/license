@@ -1,18 +1,17 @@
 {
     "licenses": {
-        "123456": {
-            "key": "123456",
+        "1234567": {
+            "key": "1234567",
             "status": "active",
             "expires_at": "2027-12-31",
             "domains": [
-                "royelking.com",
-                "www.royelking.com"
+                "robi444.com"
             ],
-            "note": "ro",
+            "note": "Ro",
             "install_id": "",
             "nonce": "",
-            "sig": "69300e30a9e70348b640c53eaba1ff09fae7082de140b09e156fb68d1a02e060"
+            "sig": "ee0391b49065b7079a76f87d73b700c6bcfd246e9630ef53b13a957a103cb071"
         }
     },
-    "generated_at": "2026-09-30T23:06:29+00:00"
+    "generated_at": "2026-10-02T13:15:16+00:00"
 }
