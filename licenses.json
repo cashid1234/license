@@ -1,18 +1,18 @@
 {
     "licenses": {
-        "12341234": {
-            "key": "12341234",
+        "1234": {
+            "key": "1234",
             "status": "active",
             "expires_at": "2027-12-31",
             "domains": [
-                "robi444.com",
-                "www.robi444.com"
+                "Win81.live",
+                "www.Win81.live"
             ],
             "note": "p1",
             "install_id": "",
             "nonce": "",
-            "sig": "96bd47cb34e35df9c00be57f5e42504a0b627b80b89e4b923de16dbe81a51ecc"
+            "sig": "7a8f017a5617acff20503f02bfa707eeb78a1dda511ff831d5d418f3e06f7596"
         }
     },
-    "generated_at": "2026-10-03T04:38:13+00:00"
+    "generated_at": "2026-10-04T01:21:54+00:00"
 }
