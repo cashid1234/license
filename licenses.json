@@ -1,18 +1,18 @@
 {
     "licenses": {
-        "12": {
-            "key": "12",
+        "1234": {
+            "key": "1234",
             "status": "active",
             "expires_at": "2027-12-31",
             "domains": [
                 "royelking.com",
                 "www.royelking.com"
             ],
-            "note": "p1",
+            "note": "ro",
             "install_id": "",
             "nonce": "",
-            "sig": "fe11331aa8887653b066b7481f840f7509c9737ffb13f4da661dd294a36889c6"
+            "sig": "28f606278a750b693a4c936ccba9e35308fe41c029dfcb696c056fd102c0262a"
         }
     },
-    "generated_at": "2026-10-09T15:57:41+00:00"
+    "generated_at": "2026-10-13T01:35:11+00:00"
 }
